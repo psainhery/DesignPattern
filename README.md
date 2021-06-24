@@ -78,6 +78,16 @@ Garantir l' existance d' un instance de cette classe
 Pas d' accès au constructeur --> une var static pour avoir l'instance unique --> verouiller la ressource
 
 
+## Memento
+Pouvoir restaurer l' etat precedanr d'un objet
+
+## Observer 
+Permet de mettre en place un mécanisme
+
+
+
+
+
 
 
 
